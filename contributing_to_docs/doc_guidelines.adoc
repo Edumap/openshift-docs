@@ -92,7 +92,7 @@ If you create a directory with a multiple-word name, separate each word with an 
 
 == Assembly/Module titles and section headings
 
-Use sentence case in all titles and section headings. See http://www.titlecase.com/ or https://convertcase.net/ for a conversion tool.
+Use sentence case in all titles and section headings. See http://www.titlecase.com/ or https://caseconverter.us/ for a conversion tool.
 
 Try to be as descriptive as possible with the title or section headings
 without making them unnecessarily long. For assemblies and task modules,
